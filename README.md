@@ -5,16 +5,13 @@
 
 <ul>
   <li>
-    👀 I’m interested in seeking to learn more
+    🔥 Acting as dev backend Java
+  </li>
+  <li>
+    🔭 I’m currently working at <a href="https://www.mercadolivre.com.br">Mercado livre</a>
   </li>
   <li>
     📫 How to reach me <a href="https://www.linkedin.com/in/matheuswillock/">Linkedin</a>
-  </li>
-  <li>
-    🌱 I’m currently working at <a href="https://www.mercadolivre.com.br">Mercado livre</a>
-  </li>
-  <li>
-    👨‍💻 Acting as dev backend Java
   </li>
 </ul>
 
