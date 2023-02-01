@@ -5,10 +5,10 @@
 
 <ul>
   <li>
-    🔥 Acting as dev backend Java
+    🔥 Acting as dev backend C#
   </li>
   <li>
-    🔭 I’m currently working at <a href="https://www.mercadolivre.com.br">Mercado livre</a>
+    🔭 I’m currently working at <a href="https://www.xpi.com.br/">XP</a>
   </li>
   <li>
     📫 How to reach me <a href="https://www.linkedin.com/in/matheuswillock/">Linkedin</a>
